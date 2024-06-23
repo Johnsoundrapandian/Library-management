@@ -83,7 +83,6 @@ public class SetAllotment {
                     break;
                 case 2:
                     System.out.println("Thank You");
-                    flag = true;
                     al =1;
                     break;
                 default:
